@@ -73,7 +73,7 @@ Three-page interactive report with a custom dark theme (Windows 11 aesthetic).
 <h2>Executive Summary</h2>
 
 <p align="center">
-  <img src="dashboard/images/Page1.png" alt="Executive Summary Dashboard" width="1000">
+  <img src="dashboard/images/Page_1.png" alt="Executive Summary Dashboard" width="1000">
 </p>
 
 - KPI cards: **$11.80bn** total revenue · **9M** units sold · **751** customers
@@ -88,7 +88,7 @@ Three-page interactive report with a custom dark theme (Windows 11 aesthetic).
 <h2>Sales Breakdown & Distribution Analysis</h2>
 
 <p align="center">
-  <img src="dashboard/images/Page2.png" alt="Sales Breakdown & Distribution Analysis Dashboard" width="1000">
+  <img src="dashboard/images/Page_2.png" alt="Sales Breakdown & Distribution Analysis Dashboard" width="1000">
 </p>
 
 - Top 5 Distributors by revenue (Gerlach LLC leads at **$3.5bn**)
@@ -103,7 +103,7 @@ Three-page interactive report with a custom dark theme (Windows 11 aesthetic).
 <h2> Sales Team & Product Performance</h2>
 
 <p align="center">
-  <img src="dashboard/images/Page3.png" alt="Sales Team & Product Performance Dashboard" width="1000">
+  <img src="dashboard/images/Page_3.png" alt="Sales Team & Product Performance Dashboard" width="1000">
 </p>
 
 - Month & Year slicers for dynamic filtering
