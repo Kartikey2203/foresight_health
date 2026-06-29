@@ -71,7 +71,11 @@ Three-page interactive report with a custom dark theme (Windows 11 aesthetic).
 
 ### Page 1 — Executive Summary
 
-![Dashboard](dashboard/images/Screenshot 2026-06-27 005340.png)
+<h3>Page 1 — Executive Summary</h3>
+
+<p align="center">
+  <img src="dashboard/images/Page1.png" alt="Executive Summary Dashboard" width="1000">
+</p>
 
 - KPI cards: **$11.80bn** total revenue · **9M** units sold · **751** customers
 - Sales by Year (line chart) — peak in 2018, decline through 2020
@@ -81,20 +85,36 @@ Three-page interactive report with a custom dark theme (Windows 11 aesthetic).
 - Geographic maps — Sales by Country & Sales by City
 
 ### Page 2 — Sales Breakdown & Distribution Analysis
+
+<p>
+<h3>Page 2 — Sales Breakdown & Distribution Analysis</h3>
+
+<p align="center">
+  <img src="dashboard/images/Page2.png" alt="Sales Breakdown & Distribution Analysis Dashboard" width="1000">
+</p>
+
 - Top 5 Distributors by revenue (Gerlach LLC leads at **$3.5bn**)
 - Top 5 Customers by revenue
 - Top Cities by Sales (bubble map — Germany focus)
 - City × Product drill-down table
 - Sales by Channel & Sub-channel donut charts
+</p>
 
 ### Page 3 — Sales Team & Product Performance
+<p>
+<h3>Page 3 — Sales Team & Product Performance</h3>
+
+<p align="center">
+  <img src="dashboard/images/Page3.png" alt="Sales Team & Product Performance Dashboard" width="1000">
+</p>
+
 - Month & Year slicers for dynamic filtering
 - Sales by Sales Team × Product Class (stacked bar)
 - Sales by Product Name × Sales Team (horizontal bar)
 - Product Class × Sales Team matrix table
 - Top Sales Manager cards — **Britanny Bold** ($3.64bn) & **Alisha Cordwell** ($2.82bn)
 - Top Sales Rep cards — **Jimmy Grey** ($985M) & **Abigail Thompson** ($981M)
-
+</p>
 ---
 
 ## 🛠️ Tech Stack
