@@ -69,9 +69,8 @@ Analyze pharmaceutical sales data across Central Europe to surface actionable in
 
 Three-page interactive report with a custom dark theme (Windows 11 aesthetic).
 
-### Page 1 — Executive Summary
 
-<h3>Page 1 — Executive Summary</h3>
+<h2>Executive Summary</h2>
 
 <p align="center">
   <img src="dashboard/images/Page1.png" alt="Executive Summary Dashboard" width="1000">
@@ -84,10 +83,9 @@ Three-page interactive report with a custom dark theme (Windows 11 aesthetic).
 - Sales by Sub-channel donut — Retail (28.33%), Government (24.37%), Institution (25.92%), Private (21.38%)
 - Geographic maps — Sales by Country & Sales by City
 
-### Page 2 — Sales Breakdown & Distribution Analysis
 
-<p>
-<h3>Page 2 — Sales Breakdown & Distribution Analysis</h3>
+
+<h2>Sales Breakdown & Distribution Analysis</h2>
 
 <p align="center">
   <img src="dashboard/images/Page2.png" alt="Sales Breakdown & Distribution Analysis Dashboard" width="1000">
@@ -100,9 +98,9 @@ Three-page interactive report with a custom dark theme (Windows 11 aesthetic).
 - Sales by Channel & Sub-channel donut charts
 </p>
 
-### Page 3 — Sales Team & Product Performance
+
 <p>
-<h3>Page 3 — Sales Team & Product Performance</h3>
+<h2> Sales Team & Product Performance</h2>
 
 <p align="center">
   <img src="dashboard/images/Page3.png" alt="Sales Team & Product Performance Dashboard" width="1000">
