@@ -70,6 +70,9 @@ Analyze pharmaceutical sales data across Central Europe to surface actionable in
 Three-page interactive report with a custom dark theme (Windows 11 aesthetic).
 
 ### Page 1 — Executive Summary
+
+![Dashboard](dashboard/images/Screenshot 2026-06-27 005340.png)
+
 - KPI cards: **$11.80bn** total revenue · **9M** units sold · **751** customers
 - Sales by Year (line chart) — peak in 2018, decline through 2020
 - Sales by Month (bar chart) — consistent ~$1bn/month
