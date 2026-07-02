@@ -1,5 +1,10 @@
 # 📊 Central Europe Pharma Sales Analytics Dashboard
 
+<p align="center">
+  <img src="dashboard\images\ChatGPT Image Jun 30, 2026, 08_36_10 AM.png" alt="Executive Summary Dashboard" width="1000">
+</p>
+
+
 An end-to-end data analytics project analyzing pharmaceutical sales across Germany and Poland — covering EDA in Python and an interactive multi-page Power BI dashboard.
 
 ---
