@@ -99,7 +99,7 @@ Three-page interactive report with a custom dark theme (Windows 11 aesthetic).
 - Top 5 Distributors by revenue (Gerlach LLC leads at **$3.5bn**)
 - Top 5 Customers by revenue
 - Top Cities by Sales (bubble map — Germany focus)
-- City × Product drill-down table
+- Top Selling Product by City 
 - Sales by Channel & Sub-channel donut charts
 </p>
 
